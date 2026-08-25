@@ -2,7 +2,7 @@
 Excel data cleaning and transformation project covering missing values, data standardization, duplicate removal, data splitting and merging, number formatting, and conditional formatting
 # Excel Data Cleaning & Transformation
 
-A practical Excel data cleaning and transformation project focused on improving data quality, consistency, and usability.
+A practical Excel project focused on cleaning, transforming, standardizing, and formatting a dataset for improved data quality and analysis.
 
 ## Key Tasks
 
@@ -12,20 +12,19 @@ A practical Excel data cleaning and transformation project focused on improving 
 - Split Product ID into Manufacturing Date and Country Code
 - Merged Brand Name and Product Name into Product Brand
 - Applied currency and date formatting
-- Added conditional formatting for Price and Category
+- Applied conditional formatting to Price and Category
 
 ## Tools Used
 
 - Microsoft Excel
-- Data Cleaning & Transformation
 - Excel Formulas
+- Data Cleaning & Transformation
 - Conditional Formatting
 
-## Project Files
+## Project Resources
 
-- `Dataset.xlsx` – Cleaned and formatted dataset
-- `Documentation.docx` – Detailed steps and explanations
+[View Project Files & Documentation on Google Drive](https://drive.google.com/drive/folders/14g8-9Yw69Fl7BF0A2EN_4Sfgj4WmLDLT?usp=drive_link)
 
 ## Outcome
 
-The dataset was cleaned, standardized, and formatted to make it more accurate, consistent, and ready for analysis.
+The dataset was cleaned, standardized, and formatted to make it more accurate, consistent, and ready for further analysis.
